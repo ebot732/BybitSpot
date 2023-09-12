@@ -1,7 +1,7 @@
 # BybitSpot
 Trading bot for exchange Bybit
 
-Бот для спот торговли на криптобирже Bybit (аналог BinSpot-17).  
+Бот для спот торговли на криптобирже Bybit (аналог BinSpot-18).  
 
 Запуск бота на VPS с ubuntu
 1. Подключаемся к серверу и по умолчанию находимся в корневом каталоге.
@@ -12,11 +12,11 @@ screen -S BybitSpot
 4. Заходим в папку BybitSpot командой:  
 cd BybitSpot
 5. Скачиваем бота в папку BybitSpot командой:  
-wget https://github.com/ebot732/BybitSpot/releases/download/BybitSpot-17/BybitSpot-17
+wget https://github.com/ebot732/BybitSpot/releases/download/BybitSpot-18/BybitSpot-18
 6. Даём права на запуск бота командой:  
-chmod 755 BybitSpot-17
+chmod 755 BybitSpot-18
 7. Запускаем  бота командой:  
-./BybitSpot-17  
+./BybitSpot-18  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
