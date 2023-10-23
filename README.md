@@ -1,5 +1,5 @@
 # BybitSpot
-Trading bot for exchange Bybit
+Trading bot for Bybit exchange.
 
 Бот для спот торговли на криптобирже Bybit (аналог BinSpot-19).    
 Бот работает только на стандартном торговом аккаунте (не на едином торговом аккаунте).     
