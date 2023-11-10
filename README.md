@@ -1,5 +1,6 @@
 # BybitSpot
 Trading bot for Bybit exchange.
+( реф ссылка для регистрации: https://www.bybit.com/invite?ref=8E183W )
 
 Бот для спот торговли на криптобирже Bybit (аналог BinSpot-20).    
 Бот работает только на стандартном торговом аккаунте (не на едином торговом аккаунте).     
