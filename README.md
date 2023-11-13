@@ -15,11 +15,11 @@ screen -S BybitSpot
 4. Заходим в папку BybitSpot командой:  
 cd BybitSpot
 5. Скачиваем бота в папку BybitSpot командой:  
-wget https://github.com/ebot732/BybitSpot/releases/download/BybitSpot-20/BybitSpot-20
+wget https://github.com/ebot732/BybitSpot/releases/download/BybitSpot-21/BybitSpot-21
 6. Даём права на запуск бота командой:  
-chmod 755 BybitSpot-20
+chmod 755 BybitSpot-21
 7. Запускаем  бота командой:  
-./BybitSpot-20  
+./BybitSpot-21  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
