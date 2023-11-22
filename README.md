@@ -3,7 +3,7 @@ Trading bot for Bybit exchange.
 При регистрации на бирже по рефссылке использование бота бесплатное.    
 ( реф ссылка для регистрации: https://www.bybit.com/invite?ref=8E183W )
 
-Бот для спот торговли на криптобирже Bybit (аналог BinSpot-21).    
+Бот для спот торговли на криптобирже Bybit (аналог BinSpot-22).    
 Бот работает только на стандартном торговом аккаунте (не на едином торговом аккаунте).     
 Можно выбирать реальную или тестовую биржу (https://testnet.bybit.com/).    
    Бот может работать в одном из 3-х режимов:
@@ -32,11 +32,11 @@ screen -S BybitSpot
 4. Заходим в папку BybitSpot командой:  
 cd BybitSpot
 5. Скачиваем бота в папку BybitSpot командой:  
-wget https://github.com/ebot732/BybitSpot/releases/download/BybitSpot-21/BybitSpot-21
+wget https://github.com/ebot732/BybitSpot/releases/download/BybitSpot-22/BybitSpot-22
 6. Даём права на запуск бота командой:  
-chmod 755 BybitSpot-21
+chmod 755 BybitSpot-22
 7. Запускаем  бота командой:  
-./BybitSpot-21  
+./BybitSpot-22  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
